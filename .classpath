@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry kind="lib" path="/home/abhi/NetTheory/hw/youtube_lib/jar/activation.jar"/>
+	<classpathentry kind="lib" path="/home/abhi/NetTheory/hw/youtube_lib/jar/gdata-youtube-2.0.jar"/>
+	<classpathentry kind="lib" path="/home/abhi/NetTheory/hw/youtube_lib/jar/mail.jar"/>
+	<classpathentry kind="lib" path="/home/abhi/NetTheory/hw/youtube_lib/gdata/java/lib/gdata-client-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/abhi/NetTheory/hw/youtube_lib/gdata (2)/java/lib/gdata-client-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/abhi/NetTheory/hw/youtube_lib/gdata (2)/java/sample/youtube/lib/YouTubeReadonlyClient.jar"/>
+	<classpathentry kind="lib" path="/home/abhi/NetTheory/hw/youtube_lib/gdata (2)/java/lib/gdata-base-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/abhi/NetTheory/hw/youtube_lib/gdata (2)/java/lib/gdata-maps-2.0.jar"/>
+	<classpathentry kind="lib" path="/home/abhi/NetTheory/hw/youtube_lib/google-collect-1.0-rc1/google-collect-1.0-rc1.jar"/>
+	<classpathentry kind="lib" path="/home/abhi/NetTheory/hw/youtube_lib/jgrapht-0.8.1/jgrapht-jdk1.6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
